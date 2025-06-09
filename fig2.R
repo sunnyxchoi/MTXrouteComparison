@@ -1,4 +1,3 @@
-#### MTX COMPARISON ANALYSIS - SEP 2024 ####
 # tissueTimecourse.R
 
 ########################## LOAD PACKAGES ##########################
